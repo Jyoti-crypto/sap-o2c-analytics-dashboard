@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Quantity,Unit_Price,Discount_Pct,Total_Amount,Region,Status,Delivery_Date,Month,Quarter
+SO-2024000,2024-11-23,C002,Infosys Technologies,P001,Enterprise License,9,42300.0,6.0,380700.0,North,Completed,2024-12-17,November,Q4
+SO-2024001,2024-10-06,C002,Infosys Technologies,P007,ERP Integration Kit,2,54450.0,1.0,108900.0,South,Completed,2024-10-25,October,Q4
+SO-2024002,2024-11-04,C001,Tata Steel Ltd,P004,Cloud Storage (TB),18,1080.0,10.0,19440.0,East,Pending,2024-12-02,November,Q4
+SO-2024003,2024-01-04,C003,Reliance Industries,P007,ERP Integration Kit,11,51150.0,7.0,562650.0,East,Completed,2024-01-10,January,Q1
+SO-2024004,2024-02-17,C007,Larsen & Toubro,P002,Data Analytics Suite,12,25280.0,21.0,303360.0,East,In Progress,2024-03-16,February,Q1
+SO-2024005,2024-01-23,C008,Bajaj Auto,P002,Data Analytics Suite,13,31360.0,2.0,407680.0,East,Completed,2024-02-13,January,Q1
+SO-2024006,2024-04-08,C002,Infosys Technologies,P001,Enterprise License,8,36450.0,19.0,291600.0,South,Completed,2024-05-08,April,Q2
+SO-2024007,2024-02-21,C007,Larsen & Toubro,P005,SAP Training Pack,15,12600.0,16.0,189000.0,South,Completed,2024-03-06,February,Q1
+SO-2024008,2024-06-30,C004,Wipro Limited,P005,SAP Training Pack,3,12750.0,15.0,38250.0,South,Completed,2024-07-08,June,Q2
+SO-2024009,2024-08-24,C007,Larsen & Toubro,P005,SAP Training Pack,18,14250.0,5.0,256500.0,North,Completed,2024-09-03,August,Q3
+SO-2024010,2024-01-17,C006,Mahindra & Mahindra,P007,ERP Integration Kit,9,53900.0,2.0,485100.0,East,In Progress,2024-01-26,January,Q1
+SO-2024011,2024-12-01,C008,Bajaj Auto,P007,ERP Integration Kit,15,52800.0,4.0,792000.0,South,Completed,2024-12-27,December,Q4
+SO-2024012,2024-10-14,C009,HCL Technologies,P005,SAP Training Pack,19,13350.0,11.0,253650.0,West,In Progress,2024-10-28,October,Q4
+SO-2024013,2024-04-22,C003,Reliance Industries,P008,HR Module Add-on,3,17820.0,19.0,53460.0,South,Completed,2024-05-15,April,Q2
+SO-2024014,2024-03-22,C007,Larsen & Toubro,P002,Data Analytics Suite,13,28800.0,10.0,374400.0,East,Pending,2024-04-11,March,Q1
+SO-2024015,2024-01-06,C002,Infosys Technologies,P005,SAP Training Pack,11,14550.0,3.0,160050.0,South,Pending,2024-01-23,January,Q1
+SO-2024016,2024-01-02,C005,HDFC Bank,P003,SAP S/4HANA Module,17,60060.0,23.0,1021020.0,South,Completed,2024-01-09,January,Q1
+SO-2024017,2024-07-10,C003,Reliance Industries,P001,Enterprise License,20,41400.0,8.0,828000.0,North,Completed,2024-07-24,July,Q3
+SO-2024018,2024-06-06,C004,Wipro Limited,P001,Enterprise License,8,35100.0,22.0,280800.0,North,Completed,2024-07-02,June,Q2
+SO-2024019,2024-09-05,C002,Infosys Technologies,P003,SAP S/4HANA Module,5,65520.0,16.0,327600.0,South,In Progress,2024-09-16,September,Q3
+SO-2024020,2024-09-27,C010,ITC Limited,P007,ERP Integration Kit,7,42350.0,23.0,296450.0,East,Completed,2024-10-12,September,Q3
+SO-2024021,2024-12-09,C006,Mahindra & Mahindra,P008,HR Module Add-on,17,19580.0,11.0,332860.0,South,Completed,2024-12-14,December,Q4
+SO-2024022,2024-06-22,C001,Tata Steel Ltd,P004,Cloud Storage (TB),19,1128.0,6.0,21432.0,North,Completed,2024-07-02,June,Q2
+SO-2024023,2024-02-04,C001,Tata Steel Ltd,P006,BI Dashboard Tool,3,24360.0,13.0,73080.0,West,Completed,2024-02-13,February,Q1
+SO-2024024,2024-10-03,C003,Reliance Industries,P008,HR Module Add-on,8,17600.0,20.0,140800.0,South,Pending,2024-10-09,October,Q4
+SO-2024025,2024-02-19,C007,Larsen & Toubro,P006,BI Dashboard Tool,14,25200.0,10.0,352800.0,North,Completed,2024-02-23,February,Q1
+SO-2024026,2024-07-25,C006,Mahindra & Mahindra,P002,Data Analytics Suite,8,30400.0,5.0,243200.0,West,In Progress,2024-08-01,July,Q3
+SO-2024027,2024-08-04,C003,Reliance Industries,P005,SAP Training Pack,15,14100.0,6.0,211500.0,West,Completed,2024-09-01,August,Q3
+SO-2024028,2024-10-08,C002,Infosys Technologies,P001,Enterprise License,18,35550.0,21.0,639900.0,South,Completed,2024-10-16,October,Q4
+SO-2024029,2024-07-27,C008,Bajaj Auto,P008,HR Module Add-on,7,17160.0,22.0,120120.0,South,Completed,2024-08-11,July,Q3
+SO-2024030,2024-01-02,C007,Larsen & Toubro,P005,SAP Training Pack,15,13950.0,7.0,209250.0,West,In Progress,2024-01-09,January,Q1
+SO-2024031,2024-04-07,C005,HDFC Bank,P004,Cloud Storage (TB),2,1032.0,14.0,2064.0,North,In Progress,2024-05-03,April,Q2
+SO-2024032,2024-06-09,C001,Tata Steel Ltd,P001,Enterprise License,19,39600.0,12.0,752400.0,South,In Progress,2024-06-13,June,Q2
+SO-2024033,2024-09-17,C002,Infosys Technologies,P003,SAP S/4HANA Module,3,66300.0,15.0,198900.0,West,Completed,2024-09-23,September,Q3
+SO-2024034,2024-10-18,C004,Wipro Limited,P001,Enterprise License,20,44100.0,2.0,882000.0,East,In Progress,2024-10-29,October,Q4
+SO-2024035,2024-04-14,C006,Mahindra & Mahindra,P004,Cloud Storage (TB),9,1080.0,10.0,9720.0,West,Completed,2024-04-27,April,Q2
+SO-2024036,2024-02-07,C001,Tata Steel Ltd,P008,HR Module Add-on,20,16500.0,25.0,330000.0,North,Completed,2024-02-27,February,Q1
+SO-2024037,2024-04-19,C009,HCL Technologies,P005,SAP Training Pack,5,11550.0,23.0,57750.0,South,Completed,2024-05-03,April,Q2
+SO-2024038,2024-05-25,C003,Reliance Industries,P008,HR Module Add-on,18,18040.0,18.0,324720.0,North,In Progress,2024-06-18,May,Q2
+SO-2024039,2024-10-10,C005,HDFC Bank,P002,Data Analytics Suite,5,29760.0,7.0,148800.0,South,Completed,2024-10-21,October,Q4
+SO-2024040,2024-05-24,C010,ITC Limited,P004,Cloud Storage (TB),11,1140.0,5.0,12540.0,West,Completed,2024-06-04,May,Q2
+SO-2024041,2024-01-27,C002,Infosys Technologies,P007,ERP Integration Kit,9,54450.0,1.0,490050.0,South,Completed,2024-02-19,January,Q1
+SO-2024042,2024-05-14,C003,Reliance Industries,P008,HR Module Add-on,18,18040.0,18.0,324720.0,North,In Progress,2024-05-20,May,Q2
+SO-2024043,2024-02-08,C003,Reliance Industries,P001,Enterprise License,12,38250.0,15.0,459000.0,West,Completed,2024-02-15,February,Q1
+SO-2024044,2024-01-22,C005,HDFC Bank,P006,BI Dashboard Tool,2,21840.0,22.0,43680.0,South,Completed,2024-02-15,January,Q1
+SO-2024045,2024-02-22,C006,Mahindra & Mahindra,P007,ERP Integration Kit,20,44550.0,19.0,891000.0,South,Completed,2024-03-21,February,Q1
+SO-2024046,2024-03-31,C007,Larsen & Toubro,P001,Enterprise License,6,36900.0,18.0,221400.0,West,Completed,2024-04-28,March,Q1
+SO-2024047,2024-12-08,C004,Wipro Limited,P005,SAP Training Pack,6,12000.0,20.0,72000.0,West,Completed,2025-01-07,December,Q4
+SO-2024048,2024-01-20,C008,Bajaj Auto,P004,Cloud Storage (TB),7,960.0,20.0,6720.0,East,Pending,2024-02-01,January,Q1
+SO-2024049,2024-04-26,C004,Wipro Limited,P001,Enterprise License,7,40500.0,10.0,283500.0,North,Completed,2024-05-23,April,Q2
+SO-2024050,2024-05-22,C006,Mahindra & Mahindra,P007,ERP Integration Kit,18,50600.0,8.0,910800.0,North,Completed,2024-06-02,May,Q2
+SO-2024051,2024-04-01,C010,ITC Limited,P005,SAP Training Pack,2,14550.0,3.0,29100.0,East,Pending,2024-04-27,April,Q2
+SO-2024052,2024-06-09,C007,Larsen & Toubro,P002,Data Analytics Suite,13,24960.0,22.0,324480.0,East,Completed,2024-06-13,June,Q2
+SO-2024053,2024-12-28,C007,Larsen & Toubro,P001,Enterprise License,17,34650.0,23.0,589050.0,South,In Progress,2025-01-11,December,Q4
+SO-2024054,2024-08-08,C002,Infosys Technologies,P006,BI Dashboard Tool,20,25760.0,8.0,515200.0,East,Completed,2024-08-27,August,Q3
+SO-2024055,2024-06-07,C007,Larsen & Toubro,P006,BI Dashboard Tool,13,23240.0,17.0,302120.0,South,In Progress,2024-06-16,June,Q2
+SO-2024056,2024-08-03,C007,Larsen & Toubro,P003,SAP S/4HANA Module,20,67080.0,14.0,1341600.0,North,Pending,2024-08-15,August,Q3
+SO-2024057,2024-05-26,C004,Wipro Limited,P007,ERP Integration Kit,19,46750.0,15.0,888250.0,West,Completed,2024-06-12,May,Q2
+SO-2024058,2024-08-14,C004,Wipro Limited,P008,HR Module Add-on,6,18480.0,16.0,110880.0,East,Completed,2024-08-19,August,Q3
+SO-2024059,2024-04-30,C005,HDFC Bank,P004,Cloud Storage (TB),7,1152.0,4.0,8064.0,South,Completed,2024-05-18,April,Q2
+SO-2024060,2024-11-08,C002,Infosys Technologies,P008,HR Module Add-on,14,17160.0,22.0,240240.0,South,In Progress,2024-12-03,November,Q4
+SO-2024061,2024-12-22,C007,Larsen & Toubro,P008,HR Module Add-on,13,20680.0,6.0,268840.0,North,Completed,2025-01-18,December,Q4
+SO-2024062,2024-08-05,C004,Wipro Limited,P003,SAP S/4HANA Module,17,68640.0,12.0,1166880.0,South,In Progress,2024-09-04,August,Q3
+SO-2024063,2024-03-03,C008,Bajaj Auto,P003,SAP S/4HANA Module,15,64740.0,17.0,971100.0,East,In Progress,2024-03-30,March,Q1
+SO-2024064,2024-08-14,C010,ITC Limited,P007,ERP Integration Kit,18,48950.0,11.0,881100.0,West,Completed,2024-08-31,August,Q3
+SO-2024065,2024-05-12,C004,Wipro Limited,P005,SAP Training Pack,17,13200.0,12.0,224400.0,East,Completed,2024-05-29,May,Q2
+SO-2024066,2024-02-09,C005,HDFC Bank,P004,Cloud Storage (TB),9,1104.0,8.0,9936.0,North,In Progress,2024-02-16,February,Q1
+SO-2024067,2024-03-18,C004,Wipro Limited,P007,ERP Integration Kit,5,45100.0,18.0,225500.0,West,Completed,2024-04-03,March,Q1
+SO-2024068,2024-06-18,C009,HCL Technologies,P008,HR Module Add-on,14,21560.0,2.0,301840.0,West,Pending,2024-07-15,June,Q2
+SO-2024069,2024-10-26,C001,Tata Steel Ltd,P007,ERP Integration Kit,16,55000.0,0.0,880000.0,East,Completed,2024-11-22,October,Q4
+SO-2024070,2024-07-18,C007,Larsen & Toubro,P004,Cloud Storage (TB),16,1140.0,5.0,18240.0,West,Pending,2024-07-21,July,Q3
+SO-2024071,2024-07-18,C006,Mahindra & Mahindra,P007,ERP Integration Kit,6,43450.0,21.0,260700.0,North,Completed,2024-08-02,July,Q3
+SO-2024072,2024-10-30,C010,ITC Limited,P001,Enterprise License,3,37800.0,16.0,113400.0,West,Completed,2024-11-07,October,Q4
+SO-2024073,2024-01-26,C005,HDFC Bank,P007,ERP Integration Kit,11,52250.0,5.0,574750.0,East,Completed,2024-02-22,January,Q1
+SO-2024074,2024-07-13,C005,HDFC Bank,P007,ERP Integration Kit,9,43450.0,21.0,391050.0,North,Pending,2024-08-08,July,Q3
+SO-2024075,2024-10-03,C001,Tata Steel Ltd,P006,BI Dashboard Tool,8,23520.0,16.0,188160.0,North,Completed,2024-10-13,October,Q4
+SO-2024076,2024-04-12,C001,Tata Steel Ltd,P003,SAP S/4HANA Module,8,75660.0,3.0,605280.0,South,Completed,2024-04-29,April,Q2
+SO-2024077,2024-12-24,C005,HDFC Bank,P006,BI Dashboard Tool,6,23800.0,15.0,142800.0,South,Completed,2025-01-05,December,Q4
+SO-2024078,2024-02-25,C010,ITC Limited,P001,Enterprise License,10,38700.0,14.0,387000.0,West,Pending,2024-03-21,February,Q1
+SO-2024079,2024-04-11,C002,Infosys Technologies,P004,Cloud Storage (TB),4,996.0,17.0,3984.0,North,Completed,2024-05-09,April,Q2
+SO-2024080,2024-10-16,C001,Tata Steel Ltd,P006,BI Dashboard Tool,18,24920.0,11.0,448560.0,North,Completed,2024-11-04,October,Q4
+SO-2024081,2024-11-27,C006,Mahindra & Mahindra,P001,Enterprise License,14,35550.0,21.0,497700.0,West,Completed,2024-12-11,November,Q4
+SO-2024082,2024-11-21,C008,Bajaj Auto,P003,SAP S/4HANA Module,14,74880.0,4.0,1048320.0,East,In Progress,2024-12-13,November,Q4
+SO-2024083,2024-10-02,C008,Bajaj Auto,P008,HR Module Add-on,14,17380.0,21.0,243320.0,East,In Progress,2024-10-15,October,Q4
+SO-2024084,2024-05-05,C002,Infosys Technologies,P005,SAP Training Pack,15,14100.0,6.0,211500.0,West,Pending,2024-05-18,May,Q2
+SO-2024085,2024-01-15,C008,Bajaj Auto,P006,BI Dashboard Tool,6,24640.0,12.0,147840.0,East,Completed,2024-01-28,January,Q1
+SO-2024086,2024-05-23,C010,ITC Limited,P005,SAP Training Pack,18,15000.0,0.0,270000.0,North,Completed,2024-06-02,May,Q2
+SO-2024087,2024-07-27,C008,Bajaj Auto,P004,Cloud Storage (TB),16,1008.0,16.0,16128.0,West,Pending,2024-08-24,July,Q3
+SO-2024088,2024-01-09,C002,Infosys Technologies,P005,SAP Training Pack,8,13500.0,10.0,108000.0,East,Completed,2024-02-02,January,Q1
+SO-2024089,2024-10-24,C006,Mahindra & Mahindra,P008,HR Module Add-on,18,19140.0,13.0,344520.0,East,Pending,2024-11-07,October,Q4
+SO-2024090,2024-12-25,C008,Bajaj Auto,P005,SAP Training Pack,10,14100.0,6.0,141000.0,South,Completed,2025-01-07,December,Q4
+SO-2024091,2024-03-02,C009,HCL Technologies,P003,SAP S/4HANA Module,7,74100.0,5.0,518700.0,East,Pending,2024-03-28,March,Q1
+SO-2024092,2024-10-28,C009,HCL Technologies,P005,SAP Training Pack,4,11850.0,21.0,47400.0,South,Completed,2024-11-11,October,Q4
+SO-2024093,2024-04-01,C005,HDFC Bank,P001,Enterprise License,18,43650.0,3.0,785700.0,North,Completed,2024-04-21,April,Q2
+SO-2024094,2024-05-29,C003,Reliance Industries,P008,HR Module Add-on,4,17160.0,22.0,68640.0,East,In Progress,2024-06-16,May,Q2
+SO-2024095,2024-09-02,C008,Bajaj Auto,P006,BI Dashboard Tool,6,21280.0,24.0,127680.0,West,Completed,2024-09-08,September,Q3
+SO-2024096,2024-02-03,C007,Larsen & Toubro,P008,HR Module Add-on,3,18920.0,14.0,56760.0,South,Completed,2024-02-10,February,Q1
+SO-2024097,2024-10-15,C005,HDFC Bank,P002,Data Analytics Suite,8,31040.0,3.0,248320.0,South,Pending,2024-11-11,October,Q4
+SO-2024098,2024-09-24,C007,Larsen & Toubro,P008,HR Module Add-on,15,20460.0,7.0,306900.0,West,In Progress,2024-10-06,September,Q3
+SO-2024099,2024-10-18,C010,ITC Limited,P001,Enterprise License,20,34200.0,24.0,684000.0,South,Completed,2024-11-10,October,Q4
+SO-2024100,2024-04-18,C005,HDFC Bank,P002,Data Analytics Suite,6,30080.0,6.0,180480.0,North,In Progress,2024-04-26,April,Q2
+SO-2024101,2024-01-02,C007,Larsen & Toubro,P008,HR Module Add-on,20,19360.0,12.0,387200.0,South,Completed,2024-01-14,January,Q1
+SO-2024102,2024-12-27,C005,HDFC Bank,P008,HR Module Add-on,3,18260.0,17.0,54780.0,South,Completed,2025-01-12,December,Q4
+SO-2024103,2024-02-28,C009,HCL Technologies,P004,Cloud Storage (TB),5,924.0,23.0,4620.0,North,Completed,2024-03-03,February,Q1
+SO-2024104,2024-03-25,C005,HDFC Bank,P005,SAP Training Pack,15,14550.0,3.0,218250.0,West,Completed,2024-04-05,March,Q1
+SO-2024105,2024-09-13,C009,HCL Technologies,P008,HR Module Add-on,15,21560.0,2.0,323400.0,West,Completed,2024-10-09,September,Q3
+SO-2024106,2024-06-14,C010,ITC Limited,P005,SAP Training Pack,1,14700.0,2.0,14700.0,North,In Progress,2024-07-11,June,Q2
+SO-2024107,2024-12-10,C005,HDFC Bank,P001,Enterprise License,6,39600.0,12.0,237600.0,East,Pending,2024-12-18,December,Q4
+SO-2024108,2024-10-26,C007,Larsen & Toubro,P008,HR Module Add-on,3,19360.0,12.0,58080.0,East,Pending,2024-11-08,October,Q4
+SO-2024109,2024-12-09,C002,Infosys Technologies,P003,SAP S/4HANA Module,11,70200.0,10.0,772200.0,East,Pending,2025-01-02,December,Q4
+SO-2024110,2024-07-24,C009,HCL Technologies,P001,Enterprise License,15,44100.0,2.0,661500.0,East,Completed,2024-07-30,July,Q3
+SO-2024111,2024-07-25,C009,HCL Technologies,P001,Enterprise License,18,39600.0,12.0,712800.0,South,Completed,2024-08-13,July,Q3
+SO-2024112,2024-07-04,C010,ITC Limited,P008,HR Module Add-on,15,17820.0,19.0,267300.0,East,Completed,2024-07-24,July,Q3
+SO-2024113,2024-03-08,C005,HDFC Bank,P008,HR Module Add-on,16,21340.0,3.0,341440.0,South,In Progress,2024-04-02,March,Q1
+SO-2024114,2024-03-22,C005,HDFC Bank,P001,Enterprise License,18,40500.0,10.0,729000.0,North,Completed,2024-04-08,March,Q1
+SO-2024115,2024-03-01,C003,Reliance Industries,P008,HR Module Add-on,10,19140.0,13.0,191400.0,West,Completed,2024-03-30,March,Q1
+SO-2024116,2024-09-04,C008,Bajaj Auto,P004,Cloud Storage (TB),15,1032.0,14.0,15480.0,South,Pending,2024-09-26,September,Q3
+SO-2024117,2024-09-17,C003,Reliance Industries,P002,Data Analytics Suite,9,25920.0,19.0,233280.0,East,Pending,2024-10-15,September,Q3
+SO-2024118,2024-09-16,C005,HDFC Bank,P001,Enterprise License,10,36900.0,18.0,369000.0,West,In Progress,2024-10-16,September,Q3
+SO-2024119,2024-03-17,C008,Bajaj Auto,P008,HR Module Add-on,12,20240.0,8.0,242880.0,West,In Progress,2024-04-03,March,Q1
+SO-2024120,2024-06-13,C004,Wipro Limited,P004,Cloud Storage (TB),19,1080.0,10.0,20520.0,North,Pending,2024-06-26,June,Q2
+SO-2024121,2024-08-30,C007,Larsen & Toubro,P007,ERP Integration Kit,5,48400.0,12.0,242000.0,South,Completed,2024-09-18,August,Q3
+SO-2024122,2024-10-29,C006,Mahindra & Mahindra,P002,Data Analytics Suite,15,31360.0,2.0,470400.0,North,Pending,2024-11-24,October,Q4
+SO-2024123,2024-03-14,C007,Larsen & Toubro,P003,SAP S/4HANA Module,3,68640.0,12.0,205920.0,East,Completed,2024-04-05,March,Q1
+SO-2024124,2024-12-20,C007,Larsen & Toubro,P002,Data Analytics Suite,11,25280.0,21.0,278080.0,West,In Progress,2025-01-02,December,Q4
+SO-2024125,2024-11-16,C008,Bajaj Auto,P001,Enterprise License,20,44100.0,2.0,882000.0,South,Completed,2024-12-12,November,Q4
+SO-2024126,2024-02-16,C007,Larsen & Toubro,P002,Data Analytics Suite,4,28480.0,11.0,113920.0,North,Completed,2024-02-20,February,Q1
+SO-2024127,2024-06-15,C001,Tata Steel Ltd,P005,SAP Training Pack,12,13650.0,9.0,163800.0,South,Completed,2024-07-04,June,Q2
+SO-2024128,2024-07-29,C010,ITC Limited,P003,SAP S/4HANA Module,6,74880.0,4.0,449280.0,West,In Progress,2024-08-20,July,Q3
+SO-2024129,2024-12-15,C004,Wipro Limited,P008,HR Module Add-on,19,21120.0,4.0,401280.0,East,Pending,2025-01-01,December,Q4
+SO-2024130,2024-05-10,C001,Tata Steel Ltd,P008,HR Module Add-on,10,18260.0,17.0,182600.0,North,Completed,2024-05-27,May,Q2
+SO-2024131,2024-06-25,C010,ITC Limited,P005,SAP Training Pack,14,12450.0,17.0,174300.0,East,Pending,2024-07-04,June,Q2
+SO-2024132,2024-07-15,C008,Bajaj Auto,P002,Data Analytics Suite,8,28800.0,10.0,230400.0,East,Completed,2024-08-09,July,Q3
+SO-2024133,2024-05-31,C001,Tata Steel Ltd,P007,ERP Integration Kit,9,55000.0,0.0,495000.0,West,Completed,2024-06-29,May,Q2
+SO-2024134,2024-05-26,C004,Wipro Limited,P006,BI Dashboard Tool,8,23520.0,16.0,188160.0,East,In Progress,2024-06-19,May,Q2
+SO-2024135,2024-12-03,C003,Reliance Industries,P002,Data Analytics Suite,2,29440.0,8.0,58880.0,North,Pending,2024-12-24,December,Q4
+SO-2024136,2024-07-05,C003,Reliance Industries,P002,Data Analytics Suite,10,29440.0,8.0,294400.0,South,Pending,2024-07-14,July,Q3
+SO-2024137,2024-03-08,C009,HCL Technologies,P006,BI Dashboard Tool,17,24360.0,13.0,414120.0,South,Completed,2024-03-19,March,Q1
+SO-2024138,2024-09-03,C005,HDFC Bank,P006,BI Dashboard Tool,4,24640.0,12.0,98560.0,South,Completed,2024-09-30,September,Q3
+SO-2024139,2024-04-25,C007,Larsen & Toubro,P006,BI Dashboard Tool,3,22400.0,20.0,67200.0,East,Completed,2024-05-15,April,Q2
+SO-2024140,2024-03-04,C008,Bajaj Auto,P006,BI Dashboard Tool,9,23800.0,15.0,214200.0,North,Completed,2024-03-28,March,Q1
+SO-2024141,2024-04-29,C008,Bajaj Auto,P001,Enterprise License,20,35100.0,22.0,702000.0,East,In Progress,2024-05-21,April,Q2
+SO-2024142,2024-04-23,C002,Infosys Technologies,P008,HR Module Add-on,10,18480.0,16.0,184800.0,South,Completed,2024-04-27,April,Q2
+SO-2024143,2024-01-20,C005,HDFC Bank,P008,HR Module Add-on,4,21560.0,2.0,86240.0,South,In Progress,2024-02-04,January,Q1
+SO-2024144,2024-08-20,C006,Mahindra & Mahindra,P007,ERP Integration Kit,19,44550.0,19.0,846450.0,West,Completed,2024-09-12,August,Q3
+SO-2024145,2024-02-20,C008,Bajaj Auto,P007,ERP Integration Kit,9,54450.0,1.0,490050.0,South,Completed,2024-03-08,February,Q1
+SO-2024146,2024-08-15,C004,Wipro Limited,P006,BI Dashboard Tool,4,21000.0,25.0,84000.0,East,Completed,2024-08-19,August,Q3
+SO-2024147,2024-07-22,C005,HDFC Bank,P004,Cloud Storage (TB),4,912.0,24.0,3648.0,North,Pending,2024-08-15,July,Q3
+SO-2024148,2024-04-18,C010,ITC Limited,P001,Enterprise License,2,36000.0,20.0,72000.0,South,Completed,2024-05-16,April,Q2
+SO-2024149,2024-10-16,C004,Wipro Limited,P002,Data Analytics Suite,18,30400.0,5.0,547200.0,South,Completed,2024-10-29,October,Q4
+SO-2024150,2024-03-16,C010,ITC Limited,P001,Enterprise License,9,35550.0,21.0,319950.0,South,Completed,2024-04-05,March,Q1
+SO-2024151,2024-05-08,C003,Reliance Industries,P002,Data Analytics Suite,1,31040.0,3.0,31040.0,South,Completed,2024-05-29,May,Q2
+SO-2024152,2024-06-14,C001,Tata Steel Ltd,P003,SAP S/4HANA Module,9,77220.0,1.0,694980.0,North,Pending,2024-07-10,June,Q2
+SO-2024153,2024-02-02,C008,Bajaj Auto,P008,HR Module Add-on,12,19140.0,13.0,229680.0,West,Completed,2024-02-21,February,Q1
+SO-2024154,2024-04-23,C010,ITC Limited,P001,Enterprise License,17,41400.0,8.0,703800.0,North,Completed,2024-05-11,April,Q2
+SO-2024155,2024-07-24,C007,Larsen & Toubro,P002,Data Analytics Suite,16,26240.0,18.0,419840.0,North,Pending,2024-07-29,July,Q3
+SO-2024156,2024-06-13,C010,ITC Limited,P003,SAP S/4HANA Module,3,75660.0,3.0,226980.0,East,In Progress,2024-06-28,June,Q2
+SO-2024157,2024-11-01,C009,HCL Technologies,P005,SAP Training Pack,15,13050.0,13.0,195750.0,North,Pending,2024-11-29,November,Q4
+SO-2024158,2024-12-25,C002,Infosys Technologies,P004,Cloud Storage (TB),14,1068.0,11.0,14952.0,West,Completed,2025-01-07,December,Q4
+SO-2024159,2024-08-20,C007,Larsen & Toubro,P007,ERP Integration Kit,4,50600.0,8.0,202400.0,East,Completed,2024-09-03,August,Q3
+SO-2024160,2024-03-19,C008,Bajaj Auto,P002,Data Analytics Suite,3,25280.0,21.0,75840.0,West,Completed,2024-03-25,March,Q1
+SO-2024161,2024-07-09,C003,Reliance Industries,P001,Enterprise License,19,34200.0,24.0,649800.0,East,In Progress,2024-08-02,July,Q3
+SO-2024162,2024-03-03,C007,Larsen & Toubro,P006,BI Dashboard Tool,14,21840.0,22.0,305760.0,East,Completed,2024-03-25,March,Q1
+SO-2024163,2024-06-08,C006,Mahindra & Mahindra,P002,Data Analytics Suite,19,27840.0,13.0,528960.0,West,Completed,2024-06-18,June,Q2
+SO-2024164,2024-02-25,C006,Mahindra & Mahindra,P006,BI Dashboard Tool,4,22680.0,19.0,90720.0,South,In Progress,2024-03-24,February,Q1
+SO-2024165,2024-08-07,C009,HCL Technologies,P001,Enterprise License,20,34650.0,23.0,693000.0,North,Completed,2024-08-15,August,Q3
+SO-2024166,2024-05-19,C005,HDFC Bank,P006,BI Dashboard Tool,12,28000.0,0.0,336000.0,West,Completed,2024-05-24,May,Q2
+SO-2024167,2024-03-13,C001,Tata Steel Ltd,P002,Data Analytics Suite,17,30400.0,5.0,516800.0,West,Pending,2024-03-26,March,Q1
+SO-2024168,2024-03-21,C006,Mahindra & Mahindra,P005,SAP Training Pack,11,12150.0,19.0,133650.0,North,In Progress,2024-03-25,March,Q1
+SO-2024169,2024-03-20,C003,Reliance Industries,P001,Enterprise License,3,41850.0,7.0,125550.0,West,Pending,2024-04-11,March,Q1
+SO-2024170,2024-08-14,C007,Larsen & Toubro,P005,SAP Training Pack,7,12150.0,19.0,85050.0,East,Completed,2024-08-30,August,Q3
+SO-2024171,2024-02-26,C005,HDFC Bank,P008,HR Module Add-on,17,18260.0,17.0,310420.0,South,Completed,2024-03-12,February,Q1
+SO-2024172,2024-11-02,C001,Tata Steel Ltd,P001,Enterprise License,7,41400.0,8.0,289800.0,South,Completed,2024-11-29,November,Q4
+SO-2024173,2024-05-10,C005,HDFC Bank,P006,BI Dashboard Tool,4,28000.0,0.0,112000.0,South,Pending,2024-05-17,May,Q2
+SO-2024174,2024-07-13,C009,HCL Technologies,P004,Cloud Storage (TB),17,1032.0,14.0,17544.0,North,Completed,2024-07-28,July,Q3
+SO-2024175,2024-01-22,C007,Larsen & Toubro,P001,Enterprise License,15,34650.0,23.0,519750.0,West,Completed,2024-02-12,January,Q1
+SO-2024176,2024-07-26,C007,Larsen & Toubro,P005,SAP Training Pack,4,13500.0,10.0,54000.0,South,Completed,2024-08-23,July,Q3
+SO-2024177,2024-11-12,C008,Bajaj Auto,P006,BI Dashboard Tool,3,24920.0,11.0,74760.0,South,Completed,2024-11-28,November,Q4
+SO-2024178,2024-10-28,C007,Larsen & Toubro,P002,Data Analytics Suite,13,24960.0,22.0,324480.0,South,Completed,2024-11-10,October,Q4
+SO-2024179,2024-03-27,C002,Infosys Technologies,P002,Data Analytics Suite,17,27840.0,13.0,473280.0,East,Completed,2024-04-22,March,Q1
+SO-2024180,2024-11-26,C003,Reliance Industries,P004,Cloud Storage (TB),4,1152.0,4.0,4608.0,South,Completed,2024-12-18,November,Q4
+SO-2024181,2024-03-19,C002,Infosys Technologies,P003,SAP S/4HANA Module,16,68640.0,12.0,1098240.0,West,In Progress,2024-04-12,March,Q1
+SO-2024182,2024-10-16,C010,ITC Limited,P006,BI Dashboard Tool,11,26880.0,4.0,295680.0,West,Completed,2024-11-02,October,Q4
+SO-2024183,2024-11-19,C005,HDFC Bank,P005,SAP Training Pack,19,14850.0,1.0,282150.0,North,In Progress,2024-12-01,November,Q4
+SO-2024184,2024-08-24,C008,Bajaj Auto,P001,Enterprise License,2,40950.0,9.0,81900.0,North,Completed,2024-09-16,August,Q3
+SO-2024185,2024-02-16,C010,ITC Limited,P007,ERP Integration Kit,15,46750.0,15.0,701250.0,West,Completed,2024-03-15,February,Q1
+SO-2024186,2024-10-19,C004,Wipro Limited,P006,BI Dashboard Tool,20,24640.0,12.0,492800.0,North,Completed,2024-11-05,October,Q4
+SO-2024187,2024-02-22,C006,Mahindra & Mahindra,P002,Data Analytics Suite,17,26880.0,16.0,456960.0,South,Completed,2024-03-18,February,Q1
+SO-2024188,2024-08-12,C008,Bajaj Auto,P003,SAP S/4HANA Module,12,70980.0,9.0,851760.0,West,Completed,2024-08-28,August,Q3
+SO-2024189,2024-06-22,C010,ITC Limited,P001,Enterprise License,11,44100.0,2.0,485100.0,West,Completed,2024-07-04,June,Q2
+SO-2024190,2024-05-09,C010,ITC Limited,P003,SAP S/4HANA Module,11,76440.0,2.0,840840.0,East,Completed,2024-05-21,May,Q2
+SO-2024191,2024-12-01,C007,Larsen & Toubro,P003,SAP S/4HANA Module,20,63960.0,18.0,1279200.0,East,Completed,2024-12-21,December,Q4
+SO-2024192,2024-07-11,C006,Mahindra & Mahindra,P003,SAP S/4HANA Module,17,76440.0,2.0,1299480.0,East,Pending,2024-07-14,July,Q3
+SO-2024193,2024-07-04,C005,HDFC Bank,P003,SAP S/4HANA Module,7,70980.0,9.0,496860.0,South,Pending,2024-07-14,July,Q3
+SO-2024194,2024-03-11,C003,Reliance Industries,P002,Data Analytics Suite,10,25280.0,21.0,252800.0,North,Completed,2024-04-04,March,Q1
+SO-2024195,2024-06-21,C010,ITC Limited,P003,SAP S/4HANA Module,20,70980.0,9.0,1419600.0,South,Completed,2024-07-20,June,Q2
+SO-2024196,2024-12-20,C010,ITC Limited,P003,SAP S/4HANA Module,15,77220.0,1.0,1158300.0,South,Completed,2025-01-06,December,Q4
+SO-2024197,2024-11-08,C005,HDFC Bank,P008,HR Module Add-on,8,19140.0,13.0,153120.0,West,Completed,2024-12-07,November,Q4
+SO-2024198,2024-04-09,C006,Mahindra & Mahindra,P008,HR Module Add-on,15,17820.0,19.0,267300.0,West,Pending,2024-04-17,April,Q2
+SO-2024199,2024-04-12,C010,ITC Limited,P003,SAP S/4HANA Module,9,77220.0,1.0,694980.0,East,Pending,2024-05-02,April,Q2

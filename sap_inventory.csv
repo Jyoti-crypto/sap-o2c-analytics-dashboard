@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Unit_Price,Stock_Available,Reorder_Level,Stock_Status
+P001,Enterprise License,45000,102,65,OK
+P002,Data Analytics Suite,32000,483,53,OK
+P003,SAP S/4HANA Module,78000,485,27,OK
+P004,Cloud Storage (TB),1200,195,25,OK
+P005,SAP Training Pack,15000,440,30,OK
+P006,BI Dashboard Tool,28000,189,48,OK
+P007,ERP Integration Kit,55000,312,29,OK
+P008,HR Module Add-on,22000,475,47,OK
